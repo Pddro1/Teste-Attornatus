@@ -14,3 +14,9 @@ A estrutura do código está desse jeito
 
 <img src="https://user-images.githubusercontent.com/104800947/212554661-8dd5151f-a963-4176-a303-d0b28d91886a.png">
 
+<br>
+
+<h2>Resposta</h2>
+
+Fiz o upload do arquivo com as respostas propostas no drive para ficar mais fácil a visualização
+https://docs.google.com/document/d/1a4hRtIno9qHugr9nvUEVi-ZRj-HDIheF/edit?usp=sharing&ouid=111200775167784878076&rtpof=true&sd=true
